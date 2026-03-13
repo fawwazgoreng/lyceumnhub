@@ -1,7 +1,6 @@
-# 🚀 Project Name
+# 🚀 LyceumHub
 
-> Fullstack web application built with **Next.js** (Frontend) + **Laravel** (Backend API)
-
+> school Website inspirated by Lyceumn (the ancient school where Aristotle studied science and logic.)
 ---
 
 ## 🛠️ Tech Stack
